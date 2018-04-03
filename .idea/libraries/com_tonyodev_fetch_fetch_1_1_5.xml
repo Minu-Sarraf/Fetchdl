@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.tonyodev.fetch:fetch-1.1.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fetch-1.1.5.aar/9072df07b0b59b0af19ba9e67b4e1c76/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fetch-1.1.5.aar/9072df07b0b59b0af19ba9e67b4e1c76/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tonyodev.fetch/fetch/1.1.5/f2916a50be6af94e9fac5ca0221299975e9c2e2b/fetch-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
